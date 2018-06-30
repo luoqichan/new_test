@@ -11,4 +11,4 @@ git commit --ammend -m "commit message" #ammending commit message
 git log [--oneline | --graph] --all #show commit history 
 
 git reset -- [mixed | soft | hard] [HEAD~n | commit hash] #mixed is a default option; HEAD~n choose how many commit to move back; commit hash is go back using hash code
-git reset 
+git reset sdf
